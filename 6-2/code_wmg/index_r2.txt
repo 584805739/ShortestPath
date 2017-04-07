@@ -1,0 +1,22 @@
+Vertice:9 label size:1
+(9,0) 
+Vertice:8 label size:2
+(8,0) (9,1) 
+Vertice:7 label size:3
+(7,0) (8,1) (9,2) 
+Vertice:5 label size:3
+(5,0) (8,1) (9,2) 
+Vertice:4 label size:5
+(4,0) (5,1) (7,1) (8,2) (9,3) 
+Vertice:3 label size:4
+(3,0) (7,1) (8,2) (9,3) 
+Vertice:2 label size:7
+(2,0) (3,1) (4,2) (5,3) (7,2) (8,3) (9,3) 
+Vertice:1 label size:8
+(1,0) (2,1) (3,1) (4,1) (5,2) (7,2) (8,3) (9,4) 
+Vertice:11 label size:3
+(5,1) (9,1) (11,0) 
+Vertice:10 label size:4
+(2,2) (3,3) (9,1) (10,0) 
+Vertice:6 label size:7
+(2,1) (3,2) (4,3) (6,0) (7,3) (9,2) (10,1) 
